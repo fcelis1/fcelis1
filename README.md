@@ -17,4 +17,4 @@
 
 [twitter]: https://twitter.com/EltigrePlays
 [instagram]: https://www.instagram.com/eltigre_celis
-[linkedin]: https://linkedin.com/in/FernandoCelis
+[linkedin]: https://www.linkedin.com/in/fernando-celis-84600b291/
