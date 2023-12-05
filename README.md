@@ -1,4 +1,4 @@
-<h1>Hi, I'm Fernando, an <a href="https://www.linkedin.com/in/fernando-celis-84600b291/
+I'm Josh, an <a href="https://linkedin.com/in/fernando-celis-84600b291/
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
