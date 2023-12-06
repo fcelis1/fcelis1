@@ -4,7 +4,6 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
 https://github.com/fcelis1/osticket-prereqs
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/fcelis1/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/fcelis1/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/fcelis1/azure-network-protocols)
